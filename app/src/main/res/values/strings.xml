@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MaterialDesign1</string>
+    <string name="tit_agenda">Agenda Estudiantes</string>
+    <string name="btn_Registrar">Registrar</string>
+    <string name="btn_Eliminar">Eliminar</string>
+    <string name="btn_Modificar">Modificar</string>
+    <string name="btn_Consultar">Consultar</string>
+</resources>
